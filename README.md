@@ -7,8 +7,8 @@ Name: OS-VPC
 IPv4 CIDR Block: 10.0.0.0/16
 
 # Availability Zones
-eu-west-1a
-eu-west-1b
+* eu-west-1a
+* eu-west-1b
 
 ### Subnets
 * Availability Zone: eu-west-1a
