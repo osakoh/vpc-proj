@@ -13,21 +13,21 @@ eu-west-1a
 eu-west-1b  
 
 ### Subnets
-Availability Zone: eu-west-1a  
 Name: Public-subnet-1A  
+Availability Zone: eu-west-1a  
 IPv4 CIDR Block: 10.0.1.0/24   
 
 
-Availability Zone: eu-west-1a  
 Name: Private-subnet-1A  
+Availability Zone: eu-west-1a  
 IPv4 CIDR Block: 10.0.3.0/24  
 
-Availability Zone: eu-west-1b  
 Name: Public-subnet-1B  
+Availability Zone: eu-west-1b  
 IPv4 CIDR Block: 10.0.2.0/24  
 
-Availability Zone: eu-west-1b  
 Name: Private-subnet-1B  
+Availability Zone: eu-west-1b  
 IPv4 CIDR Block: 10.0.4.0/24  
 
 ### Private route table
