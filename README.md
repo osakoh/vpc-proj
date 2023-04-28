@@ -4,8 +4,8 @@
 
 # Create VPC
 
-Name: OS-VPC
-IPv4 CIDR Block: 10.0.0.0/16
+Name: OS-VPC  
+IPv4 CIDR Block: 10.0.0.0/16  
 
 # Availability Zones
 
