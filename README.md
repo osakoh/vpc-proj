@@ -41,6 +41,6 @@ IPv4 CIDR Block: 10.0.0.0/16
 * Subnet: Public-subnet-1A
 
 ### Architectural Diagram
-![VPC diagram with 4 subnets(2 Public and 2 Private](C:\Users\osakoh\GeneralProjectsFolder\Cloud\vpc-proj\vpc.png "Architectural Diagram of the VPC")
+![VPC diagram with 4 subnets(2 Public and 2 Private](vpc.png "Architectural Diagram of the VPC")
 
-![Screenshot showing the Main Route table and the Private Route table.](C:\Users\osakoh\GeneralProjectsFolder\Cloud\vpc-proj\vpc-route-tabe.png "Route Table")
+![Screenshot showing the Main Route table and the Private Route table.](vpc-route-tabe.png "Route Table")
